@@ -1,4 +1,4 @@
-# Тестовое задание на позицию junior frontend developer
+# Тестовое задание на позицию junior frontend developer в компанию DataSub
 ## Ссылка на развернутое на netlify приложение: https://web3tz.netlify.app/
 
 
