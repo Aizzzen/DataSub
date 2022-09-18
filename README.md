@@ -1,13 +1,22 @@
-Тестовое задание на позицию junior frontend developer
+# Тестовое задание на позицию junior frontend developer
+## Ссылка на развернутое на netlify приложение: https://web3tz.netlify.app/
 
 
 Кнока Get Public Key вернет публичный ключ вашего криптокошелька Metamask. Предварительно у вас должно быть установлено расширение Metamask в браузере.
 После авторизации вернется ваш публичный ETH ключ.
 
 
-Ссылка на развернутое на netlify приложение: https://web3tz.netlify.app/
+```
+npm install
+```
+```
+npm start
+```
 
-npm install - и готово)
 
-Приложение написано с помощью библиотек React и Web3
+Технологии:
+  - React
+  
+  
+  - Web3.js
 
