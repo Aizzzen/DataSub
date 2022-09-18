@@ -1,5 +1,5 @@
-# Тестовое задание на позицию junior frontend developer в компанию DataSub
-## Ссылка на развернутое на netlify приложение: https://web3tz.netlify.app/
+# Тестовое задание на позицию Frontend developer в компанию DataSub, город Москва
+## Реализация доступна по ссылке: https://web3tz.netlify.app/
 
 
 Кнока Get Public Key вернет публичный ключ вашего криптокошелька Metamask. Предварительно у вас должно быть установлено расширение Metamask в браузере.
